@@ -1,0 +1,30 @@
+body, h1,h2,h3,h4,h5,h6 {
+    font-family: "Montserrat", sans-serif;
+    color: steelblue;
+    background-color: rgb(48, 48, 48);
+}
+
+p {
+    color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.link {
+  text-decoration: underline;
+  color: steelblue;
+}
+
+.w3-row-padding img {
+    margin-bottom: 12px;
+}
+
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+}
